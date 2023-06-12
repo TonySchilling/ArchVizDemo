@@ -96,6 +96,11 @@ button:focus-visible {
   }
 } */
 
-.container-fluid navbar-expand {
+.navbar navbar-expand {
   background-color: beige;
+}
+
+body {
+  font-family: "Arial Bold", sans-serif;
+  overflow: hidden;
 }
